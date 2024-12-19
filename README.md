@@ -1,7 +1,5 @@
-# CSS
-
----
-
+# CSS <img src="https://img.icons8.com/color/48/css3.png" align="right"/>
+</br>
 En este repositorio se suben diferentes practicas de CSS para poder practicar y desarrollar habilidades sobre este lenguaje de estilos, el apartado se compone de:
 
 ## Ejercicios
